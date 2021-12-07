@@ -1,5 +1,6 @@
 {
   "scopeName": "source.verilog",
+  "fileTypes": ["v", "vh", "sv", "svh", "svi", "vlib", "vp", "svp"],
   "patterns": [
     {
       "name": "keyword.control.verilog",
